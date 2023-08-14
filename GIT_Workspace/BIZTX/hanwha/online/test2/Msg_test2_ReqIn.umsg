@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mes:umessage xmlns:mes="http://www.tmaxsoft.com/promapper/message">
+  <mes:structure physicalName="Msg_test2_ReqIn" logicalName="Msg_test2_ReqIn" resourceType="STRUCTURE" resourcePath="hanwha.online.test2" resourceId="hanwha.online.test2:Msg_test2_ReqIn.umsg" resourceGroup="">
+    <str:structureField physicalName="f1" logicalName="f1" fieldType="string" decimal="0" xmlns:str="http://www.tmaxsoft.com/promapper/structure"/>
+  </mes:structure>
+</mes:umessage>
